@@ -1,0 +1,10 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background: linear-gradient(
+        to top,
+        #7D5,
+        #7D4,
+        #FA9
+    );
+    color: #000000;
+}
